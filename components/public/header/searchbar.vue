@@ -1,12 +1,10 @@
 <template>
-  <div class="topbar">
-    1
-  </div>
+
 </template>
 
 <script>
     export default {
-        name: "search"
+        name: "searchbar"
     }
 </script>
 
