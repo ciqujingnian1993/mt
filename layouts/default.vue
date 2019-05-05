@@ -11,7 +11,8 @@
 </template>
 
 <script>
-  import MyHeader from '../components/public/header/topbar.vue';
+  import MyHeader from '../components/public/header/index.vue';
+  
   export default {
     components:{
       MyHeader
